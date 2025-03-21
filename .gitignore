@@ -7,6 +7,3 @@ server/node_modules/
 .env
 client/.env
 server/.env
-
-# Other files to ignore (optional)
-.DS_Store
