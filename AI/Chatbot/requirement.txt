@@ -1,0 +1,2 @@
+google-generativeai==<version_number>
+python-dotenv==1.0.0
