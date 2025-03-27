@@ -1,0 +1,14 @@
+pip install requests pymongo google-api-python-client scikit-learn python-dotenv
+
+"""The command `pip install requests pymongo google-api-python-client scikit-learn
+ python-dotenv` is used to install the necessary libraries for your Python code
+  to function properly. `requests` allows your script to make HTTP requests to fetch 
+  quiz questions from the Open Trivia Database API. `pymongo` is required to interact
+   with MongoDB, where you store and retrieve quiz responses. `google-api-python-client`
+    is essential for interacting with the YouTube API to fetch tutorial videos based on
+     weak topics. `scikit-learn` provides machine learning tools, such as `TfidfVectorizer`
+     , which might be used for text analysis or other tasks (though it’s not currently used
+      in your code). Lastly, `python-dotenv` helps load environment variables, such as API
+       keys and database URIs, from a `.env` file, ensuring sensitive data is kept secure. 
+       Installing these libraries ensures that your code can perform its intended tasks 
+       without errors related to missing modules."""
